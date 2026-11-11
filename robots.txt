@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://parcelproof.vercel.app/sitemap.xml
